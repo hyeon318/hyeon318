@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi there! I'm HyeonJi
+# 👋 Hi there! I'm HyeonJi  
+💻 Frontend & Backend Developer | Building from UI to API 🚀
+
 
 ---
 
