@@ -66,14 +66,15 @@
 
 ---
 
-## GitHub Stats
+## Contributions
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hyeon318&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon318&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=hyeon318&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyeon318/hyeon318/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyeon318/hyeon318/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/hyeon318/hyeon318/output/github-snake.svg" />
+</picture>
 
 </div>
 
